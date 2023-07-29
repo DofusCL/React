@@ -1,0 +1,12 @@
+.movieTextDetails{
+    list-style: none;
+    font-size: 1.3 rem;
+    color: white;
+}
+
+.movieImage{
+    border-radius: 15px;
+    background-color: azure;
+    width: 230px;
+    height: 345;
+}
